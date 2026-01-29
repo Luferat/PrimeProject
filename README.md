@@ -1,2 +1,3 @@
 # PrimeProject
-Projeto de site "front-end" usando Bootstrap 5.
+
+Projeto de site um "front-end" usando Bootstrap 5.
